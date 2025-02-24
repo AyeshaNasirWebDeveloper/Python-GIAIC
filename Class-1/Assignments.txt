@@ -1,0 +1,5 @@
+*************************** Class - 1 Assignment *****************************
+
+Create account on X (Twitter)
+Explore Goggle Collab from Youtube
+Python Data Types & Special Keywords
